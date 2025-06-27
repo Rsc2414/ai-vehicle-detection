@@ -1,0 +1,11 @@
+ai-vehicle-detection/
+├── README.md
+├── requirements.txt
+├── vehicle_detector.py
+├── yolov5_model/
+│   └── best.pt
+├── utils/
+│   └── draw_boxes.py
+├── example_videos/
+│   └── traffic_sample.mp4
+└── .gitignore
